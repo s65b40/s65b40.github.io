@@ -188,6 +188,12 @@ section > h2 {
   color: var(--color-heading);
 }
 
+.paper .co-first-note {
+  color: var(--color-coming-soon);
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
 .paper .meta {
   display: flex;
   align-items: center;
